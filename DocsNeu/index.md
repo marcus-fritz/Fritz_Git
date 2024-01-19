@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Digitale Helfer fürs Studium
 
 # Aufgabe 5
