@@ -26,5 +26,3 @@ Als Nebenfach studiere ich Französisch. Die Verbindung Kunstgeschichte und Fran
 
 ## Fazit:
 Ich bin mit meiner Entscheidung, vom Beruf in ein Studium zu wechseln, ohne Zweifel zufrieden.
-
-[(https://github.com/marcus-fritz/Fritz_Git.wiki.git)https://github.com/marcus-fritz/Fritz_Git.wiki.git]
